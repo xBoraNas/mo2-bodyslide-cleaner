@@ -13,3 +13,5 @@ A lightweight, native **Mod Organizer 2** plugin that helps you reclaim gigabyte
 1. Download `BodySlideCleaner.py` and place it inside your Mod Organizer 2 plugins folder:
    ```text
    Mod Organizer 2\plugins\BodySlideCleaner.py
+2. Restart Mod Organizer 2.
+3. Launch from the top toolbar: Tools → BodySlide SliderSet & ShapeData Cleaner.
